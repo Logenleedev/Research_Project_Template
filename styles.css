@@ -297,10 +297,6 @@ main {
   text-align: center;
 }
 
-.project:hover {
-  transform: translateY(-7px);
-}
-
 .project__description {
   margin-top: 1em;
 }
