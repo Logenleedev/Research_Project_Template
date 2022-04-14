@@ -187,7 +187,7 @@ button {
 
 .btn--plain:hover {
   transform: translateY(-4px);
-}
+} 
 
 .btn--icon {
   padding: 0;
