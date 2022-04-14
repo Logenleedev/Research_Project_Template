@@ -26,6 +26,19 @@ body {
   background-color: var(--clr-bg);
 }
 
+.reference__list {
+  max-width: 450px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.reference__list-item {
+  margin: 0.5em;
+}
+
 .light {
   --clr-bg: #fcfcfc;
   --clr-bg-alt: #fff;
